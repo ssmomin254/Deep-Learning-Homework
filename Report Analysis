@@ -1,0 +1,14 @@
+Deep Learning Project: Charity Funding Predictor. 
+
+
+Both Deep learning and neutral networks were used to determine if applicants would be funded by Alphabet Soup – Charity Funding Predictor. 
+
+A three-layer training model generated 477 parameters. The first attempt came close at 72% which was under the desired 75%.
+
+The second attempt added ‘NAME’ back into the dataset, this time I achieved 79% which was 4% over target. A total of $3,298 params. 
+
+
+Deep learning models should have multiple layers, since it is machined based, it teaches a computer to filter inputs through the layers to learn how to predict and classify information. 
+
+
+
